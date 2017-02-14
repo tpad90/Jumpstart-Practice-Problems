@@ -6,7 +6,14 @@
 
 >Please feel free to critique my formatting and coding. I just learned how to format in markdown and would love to hear your thoughts on my publishing. 
 
+>I am choosing to leave the codes as they were when I first saved them on my computer. As I do more complicated assignments, you can see the growth in my coding and formatting abilities. I want the codes to remain the same so that I can witness this growth. 
+
 
 ## **Assignments**
 
-1. [_Hello World_](Assignments/hello_world.md/)
+1. [Hello World](Assignments/hello_world.md/)
+2. [Madlib](Assignments/madlib.md/)
+3. [Candy Machine](Assignments/candy_machine.md/)
+4. [Election Time](Assignments/election_time.md/)
+5. [Account Generator + Account Generator Continued](Assignments/account_generator.md/)
+6. [Walk-a-thon](Assignments/walk_a_thon.md/)
