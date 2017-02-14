@@ -9,4 +9,4 @@
 
 ## **Assignments**
 
-1. [_Hello World_](Jumpstart-Practice-Problems/Assignments/Hello_world.md)
+1. [_Hello World_](Assignments/hello_world.md/)
