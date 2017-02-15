@@ -1,7 +1,9 @@
 ```ruby
 # Welcome statement. 
 
-puts " Welcome to the Election Booth! \n\nYour choice will determine who wins this Election. Choose wisely.\n\n"
+puts " Welcome to the Election Booth!
+\n\nYour choice will determine who wins this Election.\n 
+Choose wisely.\n\n"
 
 #list all the candidates
 
