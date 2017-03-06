@@ -6,7 +6,7 @@
 
 >Please feel free to critique my formatting and coding. I just learned how to format in markdown and would love to hear your thoughts on my publishing. 
 
->I am choosing to leave the codes as they were when I first saved them on my computer. As I do more complicated assignments, you can see the growth in my coding and formatting abilities. I want the codes to remain the same so that it reflects the my level of growth. 
+>I am choosing to leave the codes as they were when I first saved them on my computer. As I do more complicated assignments, you can see the growth in my coding and formatting abilities. I want the codes to remain the same so that it can reflect my growth.
 
 
 ## **Assignments**
